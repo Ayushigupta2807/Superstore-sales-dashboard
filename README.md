@@ -25,7 +25,7 @@ superstore-sales-dashboard/
 ├── dashboard.pbix         # Power BI dashboard
 └── screenshot.png         # Dashboard preview
 ## 📷 Dashboard Preview
-![Dashboard](screenshot.png)
+![Dashboard](Screenshot%202026-04-16%20212151.png)
 
 ## 🔍 SQL Queries Covered
 - Total Sales & Profit by Region
